@@ -7,9 +7,9 @@ Each folder contains notes, examples, exercises and, where it fits, a mini-proje
 
 | # | Topic | Status |
 |---|---|---|
-| 01 | [Variables & Data Types](./01-variables-and-data-types) | ⬜ Not started |
-| 02 | [Operators](./02-operators) | ⬜ Not started |
-| 03 | [Conditional Statements](./03-conditional-statements) | ⬜ Not started |
+| 01 | [Variables & Data Types](./01-variables-and-data-types) | ✅ Done |
+| 02 | [Operators](./02-operators) | ✅ Done |
+| 03 | [Conditional Statements](./03-conditional-statements) | 🚧 In progress |
 | 04 | [Loops & Iterations](./04-loops-and-iterations) | ⬜ Not started |
 | 05 | [Functions](./05-functions) | ⬜ Not started |
 | 06 | [Arrays & Methods](./06-arrays-and-methods) | ⬜ Not started |
